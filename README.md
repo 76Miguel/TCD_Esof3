@@ -1,4 +1,5 @@
 -- Script do banco de dados
+
 -- 1. Cria a tabela Usuario
 CREATE TABLE Usuario (
     id SERIAL PRIMARY KEY,
